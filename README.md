@@ -2,4 +2,16 @@
 
 
 ## Instructions
-This is the template you will use to track the changes in our PHP tutorial. Clone this file in the www folder in your WAMP or MAMP server.
+<html>
+
+<head>
+<tittle>
+<minoto.com</tittle>
+<link href="style.css" type="text/css" rel="stylesheet">
+</head>
+
+<body>
+HALAMAN KEPLEK
+</body>
+
+</html>
