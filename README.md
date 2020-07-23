@@ -1,11 +1,8 @@
 # PHP Project
 
-
 <html>
- <head>
-  <title>PHP Test</title>
- </head>
- <body>
- <?php echo '<p>Hello World</p>'; ?> 
- </body>
+<body>
+HALAMAN KEPLEK
+</body>
+
 </html>
